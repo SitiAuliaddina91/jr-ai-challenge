@@ -1,6 +1,6 @@
 # 🚀 AI Chatbot Customer Support
 
-Solusi chatbot AI untuk customer support toko online yang dibangun untuk memenuhi challenge technical test dari PT Synapsis Sinergi Digital.
+Solusi chatbot AI untuk customer support toko online.
 
 ## 📋 Fitur Utama
 
@@ -239,4 +239,4 @@ Response time tergantung spesifikasi hardware
 Untuk production, consider menggunakan model yang lebih optimized
 
 👨‍💻 Developer Information
-Dibangun oleh Siti Auliaddina untuk memenuhi technical challenge PT Synapsis Sinergi Digital.
+by Siti Auliaddina.
